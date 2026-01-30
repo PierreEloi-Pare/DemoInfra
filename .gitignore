@@ -1,0 +1,6 @@
+#Examples
+node_modules/
+TestResults.xml
+.idea/
+.vs/
+*.obj
